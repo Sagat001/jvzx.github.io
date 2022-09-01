@@ -24,7 +24,7 @@ Esse website tem o propósito de ser o portfólio para contato e conhecer o auto
 
 Você pode está visualizando a página nestes links abaixo:
 
-* **Página no [GitHub Pages]([https://downzin01.github.io/AluraBook/](https://downzin01.github.io/downzin.me/))**
+* **Página no [GitHub Pages](https://downzin01.github.io/downzin.me/)**
 
 
 ## 📷 Screenshots (Website Responsivo)
